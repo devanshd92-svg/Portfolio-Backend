@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon app.js",
-    "start": "node app.js"
+    "start": "node app.js",
+     "postinstall": "prisma generate"
   },
   "dependencies": {
     "@prisma/client": "6.19",
