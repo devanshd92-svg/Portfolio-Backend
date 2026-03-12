@@ -1,0 +1,268 @@
+2026-03-02T10:29:27.181Z [right meow!] error: undefined
+2026-03-02T10:29:55.810Z [right meow!] error: undefined
+2026-03-02T10:32:24.387Z [right meow!] error: undefined
+2026-03-02T10:33:37.486Z [right meow!] error: undefined
+2026-03-02T10:34:07.715Z [right meow!] error: undefined
+2026-03-02T10:35:44.626Z [right meow!] error: undefined
+2026-03-02T16:36:52.191Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    id: undefined,
+?   name?: String,
+?   email?: String,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   description?: StringFilter | String,
+?   phone?: StringNullableFilter | String | Null,
+?   image?: StringNullableListFilter,
+?   resume?: StringNullableFilter | String | Null,
+?   created_at?: DateTimeFilter | DateTime
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id`, `name` or `email` arguments. Available options are marked with ?.
+2026-03-02T16:36:52.209Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    id: undefined,
+?   name?: String,
+?   email?: String,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   description?: StringFilter | String,
+?   phone?: StringNullableFilter | String | Null,
+?   image?: StringNullableListFilter,
+?   resume?: StringNullableFilter | String | Null,
+?   created_at?: DateTimeFilter | DateTime
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id`, `name` or `email` arguments. Available options are marked with ?.
+2026-03-02T16:37:05.668Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    id: undefined,
+?   name?: String,
+?   email?: String,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   description?: StringFilter | String,
+?   phone?: StringNullableFilter | String | Null,
+?   image?: StringNullableListFilter,
+?   resume?: StringNullableFilter | String | Null,
+?   created_at?: DateTimeFilter | DateTime
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id`, `name` or `email` arguments. Available options are marked with ?.
+2026-03-02T16:37:05.679Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    id: undefined,
+?   name?: String,
+?   email?: String,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   description?: StringFilter | String,
+?   phone?: StringNullableFilter | String | Null,
+?   image?: StringNullableListFilter,
+?   resume?: StringNullableFilter | String | Null,
+?   created_at?: DateTimeFilter | DateTime
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id`, `name` or `email` arguments. Available options are marked with ?.
+2026-03-02T16:41:07.173Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    id: undefined,
+?   name?: String,
+?   email?: String,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   description?: StringFilter | String,
+?   phone?: StringNullableFilter | String | Null,
+?   image?: StringNullableListFilter,
+?   resume?: StringNullableFilter | String | Null,
+?   created_at?: DateTimeFilter | DateTime
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id`, `name` or `email` arguments. Available options are marked with ?.
+2026-03-02T16:41:07.185Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    id: undefined,
+?   name?: String,
+?   email?: String,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   description?: StringFilter | String,
+?   phone?: StringNullableFilter | String | Null,
+?   image?: StringNullableListFilter,
+?   resume?: StringNullableFilter | String | Null,
+?   created_at?: DateTimeFilter | DateTime
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id`, `name` or `email` arguments. Available options are marked with ?.
+2026-03-02T16:45:15.034Z [right meow!] error: id is not defined
+2026-03-02T16:45:15.051Z [right meow!] error: id is not defined
+2026-03-02T16:46:42.847Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    id: undefined,
+?   name?: String,
+?   email?: String,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   description?: StringFilter | String,
+?   phone?: StringNullableFilter | String | Null,
+?   image?: StringNullableListFilter,
+?   resume?: StringNullableFilter | String | Null,
+?   created_at?: DateTimeFilter | DateTime
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id`, `name` or `email` arguments. Available options are marked with ?.
+2026-03-02T16:46:42.872Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    id: undefined,
+?   name?: String,
+?   email?: String,
+?   AND?: UserWhereInput | UserWhereInput[],
+?   OR?: UserWhereInput[],
+?   NOT?: UserWhereInput | UserWhereInput[],
+?   description?: StringFilter | String,
+?   phone?: StringNullableFilter | String | Null,
+?   image?: StringNullableListFilter,
+?   resume?: StringNullableFilter | String | Null,
+?   created_at?: DateTimeFilter | DateTime
+  }
+}
+
+Argument `where` of type UserWhereUniqueInput needs at least one of `id`, `name` or `email` arguments. Available options are marked with ?.
+2026-03-02T16:50:59.049Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Inconsistent column data: Malformed ObjectID: provided hex string representation must be exactly 12 bytes, instead got: ":id", length 3.
+2026-03-02T16:50:59.060Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Inconsistent column data: Malformed ObjectID: provided hex string representation must be exactly 12 bytes, instead got: ":id", length 3.
+2026-03-02T16:55:07.242Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Inconsistent column data: Malformed ObjectID: provided hex string representation must be exactly 12 bytes, instead got: "65f8ab23e12abc123456789ab", length 25.
+2026-03-02T16:55:07.252Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Inconsistent column data: Malformed ObjectID: provided hex string representation must be exactly 12 bytes, instead got: "65f8ab23e12abc123456789ab", length 25.
+2026-03-05T07:34:18.487Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Max Set Version: 257, Max Election ID: 7fffffff00000000000002fc, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: No such host is known. (os error 11001), labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: No such host is known. (os error 11001), labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: No such host is known. (os error 11001), labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T07:34:38.304Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Max Set Version: 257, Max Election ID: 7fffffff00000000000002fc, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: No such host is known. (os error 11001), labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: No such host is known. (os error 11001), labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: No such host is known. (os error 11001), labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T07:35:26.204Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Max Set Version: 257, Max Election ID: 7fffffff00000000000002fc, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: timed out, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T07:36:25.049Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Error in connector: Error creating a database connection. (Kind: An error occurred during DNS resolution: request timed out, labels: {}, source: None)
+2026-03-05T07:36:25.070Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Error in connector: Error creating a database connection. (Kind: An error occurred during DNS resolution: request timed out, labels: {}, source: None)
+2026-03-05T07:36:57.404Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: timed out, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: timed out, labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T07:37:16.060Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: timed out, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T07:37:36.080Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T08:04:33.761Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T08:04:38.769Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T08:04:52.644Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T08:05:12.674Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T08:08:02.621Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: No such host is known. (os error 11001), labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: No such host is known. (os error 11001), labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: No such host is known. (os error 11001), labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T08:24:16.118Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T08:24:36.262Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None } ] }, labels: {}, source: None`
+2026-03-05T08:24:56.290Z [right meow!] error: 
+Invalid `prisma.user.findUnique()` invocation:
+
+
+Raw query failed. Code: `unknown`. Message: `Kind: Server selection timeout: No available servers. Topology: { Type: ReplicaSetNoPrimary, Set Name: atlas-9vw3eh-shard-0, Servers: [ { Address: ac-kiofxgd-shard-00-01.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-02.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None }, { Address: ac-kiofxgd-shard-00-00.i9fdfxh.mongodb.net:27017, Type: Unknown, Error: Kind: I/O error: received fatal alert: InternalError, labels: {}, source: None } ] }, labels: {}, source: None`
