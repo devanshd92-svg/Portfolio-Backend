@@ -12,7 +12,7 @@ const port = process.env.PORT || 4000
 const corsOptions={
     origin: [
     "http://localhost:5173",
-    "https://portfolio-frontend-dusky-theta.vercel.app"
+    "https://portfolio-frontend-drab-xi.vercel.app/"
   ],
     methods:["GET","POST","PUT","PATCH","HEAD","DELETE"],
     credentials: true
