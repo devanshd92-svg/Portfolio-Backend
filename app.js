@@ -14,16 +14,17 @@ const corsOptions={
     "http://localhost:5173",
     "https://portfolio-frontend-dusky-theta.vercel.app"
   ],
-    methods:["GET","POST","PUT","PATCH","HEAD","DELETE"]
+    methods:["GET","POST","PUT","PATCH","HEAD","DELETE"],
+    credentials: true
 }
 app.use(cors(corsOptions))
 
 app.use(express.json())
-app.use("/uploads", express.static("uploads"));
+// app.use("/uploads", express.static("uploads"));
 app.use(express.urlencoded({ extended: false }));
 app.use(router)
 
 
 
 app.get('/', (req, res) => res.send('Hello World!'))
-app.listen(port, () => console.log(`Example app listening on port ${port}!`))
+export default app
