@@ -1,30 +1,31 @@
-import express from  "express"
+import express from "express"
 import dotenv from "dotenv"
 import cors from "cors"
 
 import router from "./src/routes/index.js"
-// import routes from "./src/routes/Page.router.js"
-const app = express()
 
 dotenv.config()
-const port = process.env.PORT || 4000
 
-const corsOptions={
+const app = express()
+
+app.use(
+  cors({
     origin: [
-    "http://localhost:5173",
-    "https://portfolio-frontend-drab-xi.vercel.app/"
-  ],
-    methods:["GET","POST","PUT","PATCH","HEAD","DELETE"],
+      "http://localhost:5173",
+      "https://portfolio-frontend-drab-xi.vercel.app"
+    ],
+    methods: ["GET","POST","PUT","PATCH","DELETE"],
     credentials: true
-}
-app.use(cors(corsOptions))
+  })
+)
 
 app.use(express.json())
-// app.use("/uploads", express.static("uploads"));
-app.use(express.urlencoded({ extended: false }));
+app.use(express.urlencoded({ extended: false }))
+
 app.use(router)
 
+app.get("/", (req,res)=>{
+  res.send("API running 🚀")
+})
 
-
-app.get('/', (req, res) => res.send('Hello World!'))
 export default app
